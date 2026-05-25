@@ -1,0 +1,30 @@
+name: "💡 Feature request"
+description: Suggest a new tool, trigger, or capability
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: We ship requested features regularly. Tell us what you need and why.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: Describe the workflow or outcome you want, not just the feature.
+      placeholder: "I'm trying to ... but right now I have to ..."
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like GHL Command to do?
+      placeholder: e.g. a tool that bulk-updates opportunity stages by tag.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Anything else?
+      description: GHL feature area, screenshots, or examples.
+    validations:
+      required: false

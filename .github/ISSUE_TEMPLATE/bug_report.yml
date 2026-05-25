@@ -1,0 +1,42 @@
+name: "🐛 Bug report"
+description: Something in GHL Command isn't working the way it should
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for the report. The more detail you give, the faster we can fix it.
+  - type: input
+    id: version
+    attributes:
+      label: GHL Command version
+      description: 'Ask Claude: "check your GHL Command version" (or run get_mcp_version).'
+      placeholder: e.g. 3.17.0
+    validations:
+      required: true
+  - type: dropdown
+    id: client
+    attributes:
+      label: Which Claude are you using?
+      options:
+        - Claude Desktop app
+        - Claude Code (terminal)
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead?
+      placeholder: Include the tool name you were using and any error text Claude showed.
+    validations:
+      required: true
+  - type: textarea
+    id: health-check
+    attributes:
+      label: health_check output (optional but very helpful)
+      description: 'Ask Claude to "run health_check" and paste the result.'
+      render: text
+    validations:
+      required: false

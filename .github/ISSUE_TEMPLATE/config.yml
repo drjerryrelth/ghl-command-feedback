@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💳 Purchase or billing help
+    url: mailto:support@cliniclaunchlab.com
+    about: Questions about your purchase, license, or refunds — email us directly.
+  - name: 📘 Setup guide & docs
+    url: https://elitedcs.com/ghl-mcp-server
+    about: Install steps, Firebase / Workflow Builder setup, and tool reference.
