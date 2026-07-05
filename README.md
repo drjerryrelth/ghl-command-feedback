@@ -2,7 +2,15 @@
 
 This is the public feedback tracker for **GHL Command** ([`@elitedcs/ghl-mcp`](https://www.npmjs.com/package/@elitedcs/ghl-mcp)), the GoHighLevel MCP server for Claude.
 
-Product page and docs: **https://elitedcs.com/ghl-mcp-server**
+Product page, demos, and license: **https://ghlcommand.com** (docs mirror: [elitedcs.com/ghl-mcp-server](https://elitedcs.com/ghl-mcp-server))
+
+**What it is:** 229 tools across 48 modules giving Claude full GoHighLevel control — including the only programmatic GHL workflow builder (create, edit, publish), silent-failure workflow audits, funnel/form builders, bulk operations, and complete client sub-account builds from one prompt. Works with Claude Desktop and Claude Code.
+
+**Try it free:** read-only tier at [ghlcommand.com/free](https://ghlcommand.com/free) · Free account scorecard: [ghlcommand.com/grade](https://ghlcommand.com/grade)
+
+```json
+{ "mcpServers": { "ghl": { "command": "npx", "args": ["-y", "@elitedcs/ghl-mcp@latest"] } } }
+```
 
 ## What this repo is for
 
