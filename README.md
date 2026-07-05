@@ -28,7 +28,7 @@ GHL Command is a paid product, so the source code lives in a private repository.
 
 ## Need help fast?
 
-For purchase or billing questions, email **support@cliniclaunchlab.com**. For setup, the [Firebase / Workflow Builder guide](https://elitedcs.com/ghl-mcp-firebase) covers the most common snag (the extra 49 Firebase-gated tools).
+For purchase or billing questions, email **support@ghlcommand.com**. For setup, the [Firebase / Workflow Builder guide](https://elitedcs.com/ghl-mcp-firebase) covers the most common snag (the extra 49 Firebase-gated tools).
 
 ---
 Built by Elite DCs, LLC.
