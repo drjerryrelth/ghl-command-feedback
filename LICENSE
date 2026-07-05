@@ -1,26 +1,21 @@
-GHL Command - Proprietary Software License
-Copyright (c) 2026 Elite DCs, LLC. All rights reserved.
+MIT License
 
-1. Overview
-GHL Command (the "Software") is commercial, proprietary software owned by Elite DCs, LLC (the "Licensor"). The Software is licensed, not sold. Use of the Software requires a valid paid license obtained from https://elitedcs.com/ghl-mcp-server.
+Copyright (c) 2026 Elite DCs, LLC
 
-2. This Repository
-This repository (ghl-command-feedback) is provided solely as a public feedback, issue-tracking, and documentation channel for licensed users of the Software. It does not contain the Software's source code. Nothing in this repository grants any license to the Software itself.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-3. License Grant
-Subject to payment of the applicable fee and ongoing compliance with the Licensor's then-current commercial terms, Licensor grants the purchaser a non-exclusive, non-transferable, revocable license to install and use the Software on the number of machines specified at purchase. No other rights are granted.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-4. Restrictions
-Except as expressly permitted by the commercial terms or by applicable law, you may not: a) copy, modify, or create derivative works of the Software; b) distribute, sublicense, sell, rent, lease, or otherwise transfer the Software; c) reverse engineer, decompile, or disassemble the Software, or attempt to derive its source code; d) remove or alter any proprietary notices; or e) circumvent or disable any license-validation or activation mechanism.
-
-5. Ownership
-The Software and all intellectual property rights therein are and remain the exclusive property of Elite DCs, LLC. This license does not transfer any ownership interest.
-
-6. No Warranty
-THE SOFTWARE AND THIS REPOSITORY ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
-
-7. Limitation of Liability
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ELITE DCS, LLC BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE, THIS REPOSITORY, OR THE USE OR OTHER DEALINGS THEREIN.
-
-8. Contact
-Elite DCs, LLC - https://elitedcs.com/ghl-mcp-server
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

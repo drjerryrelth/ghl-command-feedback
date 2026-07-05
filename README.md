@@ -6,6 +6,8 @@ Product page, demos, and license: **https://ghlcommand.com** (docs mirror: [elit
 
 **What it is:** 229 tools across 48 modules giving Claude full GoHighLevel control — including the only programmatic GHL workflow builder (create, edit, publish), silent-failure workflow audits, funnel/form builders, bulk operations, and complete client sub-account builds from one prompt. Works with Claude Desktop and Claude Code.
 
+**Licensing:** this repository (docs and feedback templates only, no source code) is MIT-licensed. The GHL Command software itself is commercial and proprietary — see [SOFTWARE-LICENSE.md](SOFTWARE-LICENSE.md) and [ghlcommand.com](https://ghlcommand.com).
+
 **Try it free:** read-only tier at [ghlcommand.com/free](https://ghlcommand.com/free) · Free account scorecard: [ghlcommand.com/grade](https://ghlcommand.com/grade)
 
 ```json
